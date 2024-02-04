@@ -589,12 +589,14 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: normal;
-  color: #bfbfbf;
+  /*color: #bfbfbf;*/
+  color: #FF9000;
 }
 
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
+  text-align: start;
 }
 
 .timeline-body > p + p {
